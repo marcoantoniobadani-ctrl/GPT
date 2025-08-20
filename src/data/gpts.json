@@ -1,0 +1,21 @@
+[
+  {
+    "id": "gptfarma-bo",
+    "nombre": "GPTFarma",
+    "descripcion": "Encuentra medicamentos y productos farmacéuticos en Bolivia de forma rápida y sencilla. Tu buscador confiable para farmacias y laboratorios.",
+    "categorias": [
+      "Salud",
+      "Buscador"
+    ],
+    "etiquetas": [
+      "Bolivia",
+      "Farmacias",
+      "Laboratorios",
+      "Medicamentos"
+    ],
+    "url": "https://chatgpt.com/g/g-68420e7f472c8191815925f56fb96809-gptfarma",
+    "publico": true,
+    "hero": "/gptfarma.png",
+    "actualizado": "2025-08-19"
+  }
+]
